@@ -1,0 +1,43 @@
+h4{
+    text-align: center;
+    font-style: oblique;color: rgb(0, 0, 0);
+    
+}
+p{
+    text-align: center;color: rgb(255, 255, 255);
+    background-color: rgb(85, 29, 29);
+}
+h5{
+    text-align: center;color: rgb(0, 0, 0);
+}
+h4{
+    text-align: center;color: rgb(0, 0, 0);
+}
+
+h6{
+    color: aliceblue;
+    text-align: center;
+}
+div{
+    color: aliceblue;
+}
+body{
+    background-image: url(../img/cinema-theatre.webpDESSSSSSSS.webp);
+    height: 100vh;
+    background-size: cover;
+    background-position: 90%;
+    background-repeat: no-repeat;
+}
+h2{
+    text-align: center; color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.background{
+    background-color: rgba(0, 0, 0, 0.568);
+}
+
+#navbar{
+    background-color: rgba(240, 248, 255, 0.658);
+}

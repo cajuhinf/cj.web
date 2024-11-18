@@ -1,0 +1,13 @@
+body{
+    background-color: hsl(0, 57%, 51%);
+}
+
+h2{
+    background-color: rgb(124, 27, 27);
+    text-align: center; color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.background2{
+    background-color: rgba(0, 0, 0, 0.274);
+}

@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+}
+body{
+    background-color: rgb(131, 39, 39);
+}
+
+fieldset{
+    background-color: rgb(175, 108, 108); border-radius: 15px; 
+}
+
+h2{
+    color: rgb(231, 158, 158);
+    
+}
+
+h6{
+    color: aliceblue;
+}
+
+h5{
+    color: aliceblue; 
+}
